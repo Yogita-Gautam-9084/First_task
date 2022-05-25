@@ -382,7 +382,7 @@ class NarainaIndustrialEst extends StatelessWidget {
                               children: [
                                 Expanded(
                                     child: Text(
-                                        'Lorem ipsum dolor sit amet,consectetur adipiscing')),
+                                        'Lorem ipsum dolor sit amet,consectetur adipis')),
                                 Icon(
                                   Icons.keyboard_arrow_right,
                                   size: 30,
