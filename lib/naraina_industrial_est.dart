@@ -376,6 +376,7 @@ class NarainaIndustrialEst extends StatelessWidget {
                             SizedBox(
                               height: 10,
                             ),
+
                             Row(
                               mainAxisAlignment: MainAxisAlignment.spaceBetween,
                               children: [
