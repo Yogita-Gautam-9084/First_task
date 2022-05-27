@@ -1,3 +1,5 @@
+import 'package:first_task/second_task/khelo_screen.dart';
+import 'package:first_task/second_task/verification_code_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:first_task/term_condition_screen.dart';
 import 'package:first_task/naraina_industrial_est.dart';
@@ -17,7 +19,9 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home:const NarainaIndustrialEst()
+      home: const VerificationCodeScreen(),
+       // home: const KheloScreen()
+     // home:const NarainaIndustrialEst()
       //  home: const TermConditionScreen(),
      //  home: Scaffold(
      //    body: SingleChildScrollView(
